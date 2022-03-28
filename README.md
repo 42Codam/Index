@@ -9,7 +9,7 @@ These are all my projects in the 42Amsterdam of [Codam coding college](https://w
 
 |			Name				| Description	| 
 |:---------------:|:-----------:|
-[Libft](https://github.com/42Codam/Libft) | This project aims to code a C library regrouping usual<br>functions that you’ll be using for all your next projects. |
+[Libft](https://github.com/42Codam/Libft) | This project aims to code a C library regrouping usual functions that you’ll be using for all your next projects. |
 
 ## Rank 1
 |			Name				| Description	| 
