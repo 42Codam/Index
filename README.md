@@ -15,5 +15,5 @@ These are all my projects in the 42Amsterdam of [Codam coding college](https://w
 |			Name				| Description	| 
 |:---------------:|:-----------:|
 [get_next_line](https://github.com/42Codam/get_next_line) | The aim of this project is to make you code a function<br>that returns a line and read from a file descriptor. |
-[Born2Beroot](https://github.com/42Codam/Born2BeRoot) | This project aims to introduce you to the world of virtualization.. |
+[Born2Beroot](https://github.com/42Codam/Born2BeRoot) | This project aims to introduce you to the wonderful world of virtualization.. |
 [ft_printf](https://github.com/42Codam/ft_printf) | Recoding printf. Hopefully you will be able to reuse it in future project without the fear of being flagged as a cheater. You will mainly learn how to use variadic arguments. |
